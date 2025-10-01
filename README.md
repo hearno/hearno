@@ -16,4 +16,4 @@
 
 * **R&D:** Deepening expertise in Android Privacy Hardening and encrypted systems.
 * **Active Project:** Reporting critical data integrity bugs to enhance core, high-utility tools (e.g., Kvaesitso Launcher).
-
+* Contact: **![Secure Contact Email Image]([YOUR_COPIED_URL_HERE](https://github.com/hearno/hearno/commit/adc9c5adfffc444c9c100745c857f347ade709c3))** for project inquiries only.
