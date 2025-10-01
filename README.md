@@ -1,16 +1,19 @@
-## Hi there 👋
+### hearno // DIGITAL STEWARD
 
-<!--
-**hearno/hearno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Digital Architect focused on **System Integrity** and **Intentional Growth**. I build lean, high-utility tools designed for stability, efficiency, and maximizing personal focus.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### **CORE VALUES & FRAMEWORK**
+
+* **Principle: Hear & Discern.** All external input is subjected to a methodical filter, ensuring systems and communication serve a clear, high utility.
+* **Methodology: System Integrity.** Prioritizing foundational security, reliability, and **uncluttered** architecture (e.g., preference for open-source, privacy-focused solutions).
+* **Focus: Intentional Growth.** Aggressively consolidating functions and elevating high-utility tools to maximize focus on **spiritual purpose** and personal development.
+
+---
+
+#### **CURRENT FOCUS**
+
+* **R&D:** Deepening expertise in Android Privacy Hardening and encrypted systems.
+* **Active Project:** Reporting critical data integrity bugs to enhance core, high-utility tools (e.g., Kvaesitso Launcher).
+
